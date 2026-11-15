@@ -1,24 +1,25 @@
-<h1 align="center">Hey, I’m @lakshay74 👋</h1>
+# @lakshay74
 
-<p align="center"><strong>Building practical tools for web accessibility and reliable AI testing.</strong></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshay74/lakshay74/main/assets/profile-dark.svg">
+  <img src="https://raw.githubusercontent.com/lakshay74/lakshay74/main/assets/profile-light.svg" alt="Build for every user: practical tools for a more inclusive web and more dependable AI.">
+</picture>
 
-<p align="center">
-  <a href="https://github.com/lakshay74/a11ylens-accessibility-auditor">A11yLens</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/lakshay74/llm-eval-suite">LLM Evaluation Suite</a>
-</p>
+I build practical tools around web accessibility and reliable AI testing.
+
+## Featured projects
+
+- **[A11yLens](https://github.com/lakshay74/a11ylens-accessibility-auditor)** — A Chrome extension that scans pages for accessibility issues, highlights affected elements, and explains findings with WCAG guidance.
+- **[LLM Evaluation & Testing Suite](https://github.com/lakshay74/llm-eval-suite)** — A test harness for answer correctness, out-of-scope refusals, prompt injection, and edge cases, with GitHub Actions CI.
+
+## What's next
+
+**A11yLens Web** — A planned mobile-first URL scanning experience with shareable reports and plain-language explanations. The existing extension remains a separate way to scan pages.
+
+## Tools in these projects
+
+`JavaScript` · `Python` · `FastAPI` · `axe-core` · `WCAG` · `GitHub Actions` · `Groq`
 
 ---
 
-### Featured work
-
-- **[A11yLens](https://github.com/lakshay74/a11ylens-accessibility-auditor)** — A Manifest V3 browser extension that scans pages for accessibility issues, highlights affected elements, and explains findings with WCAG guidance.
-- **[LLM Evaluation & Testing Suite](https://github.com/lakshay74/llm-eval-suite)** — Automated checks for answer correctness, hallucination refusals, prompt injection, and edge cases, run with GitHub Actions.
-
-### Areas I work in
-
-`JavaScript` · `Python` · `Web accessibility` · `WCAG` · `LLM evaluation` · `GitHub Actions`
-
----
-
-<p align="center">Thanks for stopping by — explore the projects above to see what I’m building.</p>
+[Explore my repositories](https://github.com/lakshay74?tab=repositories) · [View my profile](https://github.com/lakshay74)
